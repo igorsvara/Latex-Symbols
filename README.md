@@ -16,42 +16,18 @@ The more unusual symbols are not defined in base LATEX (NFSS) and require `\usep
 
 
 ## 2. LaTeX Math Constructs
-||||||
-|----------|------------|------------|----------|-------------|-------------|
+|||||
+|----------|------------|------------|----------|
 | $\frac{abc}{xyz}$ &nbsp; \frac{abc}{xyz} | $\overline{abc}$ &nbsp; \overline{abc} | $\overrightarrow{abc}$ &nbsp; \overrightarrow{abc} | $f'$ &nbsp; f' |
 | $\underline{abc}$ &nbsp; \underline{abc} | $\overleftarrow{abc}$ &nbsp; \overleftarrow{abc} | $\sqrt{abc}$ &nbsp; \sqrt{abc} | $\widehat{abc}$ &nbsp; \widehat{abc} |
 | $\overbrace{abc}$ &nbsp; \overbrace{abc} | $\sqrt[n]{abc}$ &nbsp; \sqrt[n]{abc} | $\widetilde{abc}$ &nbsp; \widetilde{abc} | $\underbrace{abc}$ &nbsp; \underbrace{abc} | 
 |$\overset{abc}{\longrightarrow}$ &nbsp; overset{abc}{\longrightarrow} |
 
-## 3. Delimiters
-||||||
-|----------|------------|------------|----------|-------------|-------------|
-| $\left( \right)$ &nbsp; \left( &nbsp; \right) | $\{ \}$ &nbsp; \\{ &nbsp; \\} | $\lfloor$ &nbsp; \lfloor | $\rfloor$ &nbsp; \rfloor |
-| $\vert$ &nbsp; \vert | $\| \|$ &nbsp; \| \| | $\langle$ &nbsp; \langle | $\rangle$ &nbsp; \rangle |
-| $\uparrow$ &nbsp; \uparrow | $\downarrow$ &nbsp; \downarrow | $\Uparrow$ &nbsp; \Uparrow | $\Downarrow$ &nbsp; \Downarrow |
-| $\ulcorner$ &nbsp; \ulcorner | $\urcorner$ &nbsp; \urcorner | $\llcorner$ &nbsp; \llcorner | $\lrcorner$ &nbsp; \lrcorner |
-
-Use the pair `\left` and `\right` to match the height of delimiters to the height of their contents, e.g., `\left| expr \right|`.
-
-## 4. Variable-sized Symbols
-|||||
-|----------|------------|------------|----------|-------------|-------------|
-| $\sum$ &nbsp; \sum | $\int$ &nbsp; \int | $\biguplus$ &nbsp; \biguplus | $\bigoplus$ &nbsp; \bigoplus |
-| $\bigvee$ &nbsp; \bigvee | $\prod$ &nbsp; \prod | $\oint$ &nbsp; \oint | $\bigcap$ &nbsp; \bigcap |
-| $\bigotimes$ &nbsp; \bigotimes | $\bigwedge$ &nbsp; \bigwedge | $\coprod$ &nbsp; \coprod | $\iint$ &nbsp; \iint |
-| $\bigcup$ &nbsp; \bigcup | $\bigodot$ &nbsp; \bigodot | $\bigsqcup$ &nbsp; \bigsqcup |
-
-
-
-
-Sure, I can convert the rest of the document into Markdown format while keeping the order of the tables and cells intact. Let's proceed section by section. Here is the next part of the PDF document converted to Markdown:
-
-
 
 ## 3. Delimiters
 
 |||||||
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|------------|
+|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
 | &#124; &nbsp; &#124; | $\{$ &nbsp; \ {       | $\lfloor$ &nbsp; \lfloor    | $/$ &nbsp; /       | $\Uparrow$ &nbsp; \Uparrow | $\llcorner$ &nbsp; \llcorner |
 | $\vert$ &nbsp; \vert    | $\}$ &nbsp; \ }        | $\rfloor$ &nbsp; \rfloor    | $\backslash$ &nbsp; \backslash | $\uparrow$ &nbsp; \uparrow | $\lrcorner$ &nbsp; \lrcorner  |
 | $\|$ &nbsp; \ &#124;      | $\langle$ &nbsp; \langle | $\lceil$ &nbsp; \lceil    | $[$ &nbsp; [        | $\Downarrow$ &nbsp; \Downarrow | $\ulcorner$ &nbsp; \ulcorner |
@@ -62,7 +38,7 @@ Use the pair `\left` and `\right` to match height of delimiters s1 and s2 to the
 ## 4. Variable-Sized Symbols (Displayed Formulae Show Larger Version)
 
 ||||||
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|---------------------|----------------------|----------------------|----------------------|----------------------|
 | $\sum$ &nbsp; \sum  | $\int$ &nbsp; \int    | $\biguplus$ &nbsp; \biguplus | $\bigoplus$ &nbsp; \bigoplus | $\bigvee$ &nbsp; \bigvee |
 | $\prod$ &nbsp; \prod  | $\oint$ &nbsp; \oint | $\bigcap$ &nbsp; \bigcap | $\bigotimes$ &nbsp; \bigotimes | $\bigwedge$ &nbsp; \bigwedge | 
 | $\coprod$ &nbsp; \coprod | $\iint$ &nbsp; \iint | $\bigcup$ &nbsp; \bigcup | $\bigodot$ &nbsp; \bigodot | $\bigsqcup$ &nbsp; \bigsqcup ||
