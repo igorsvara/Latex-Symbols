@@ -16,7 +16,7 @@ The more unusual symbols are not defined in base LATEX (NFSS) and require `\usep
 
 
 ## 2. LaTeX Math Constructs
-|||||
+||||||
 |----------|------------|------------|----------|-------------|-------------|
 | $\frac{abc}{xyz}$ &nbsp; \frac{abc}{xyz} | $\overline{abc}$ &nbsp; \overline{abc} | $\overrightarrow{abc}$ &nbsp; \overrightarrow{abc} | $f'$ &nbsp; f' |
 | $\underline{abc}$ &nbsp; \underline{abc} | $\overleftarrow{abc}$ &nbsp; \overleftarrow{abc} | $\sqrt{abc}$ &nbsp; \sqrt{abc} | $\widehat{abc}$ &nbsp; \widehat{abc} |
@@ -24,7 +24,7 @@ The more unusual symbols are not defined in base LATEX (NFSS) and require `\usep
 |$\overset{abc}{\longrightarrow}$ &nbsp; overset{abc}{\longrightarrow} |
 
 ## 3. Delimiters
-|||||
+||||||
 |----------|------------|------------|----------|-------------|-------------|
 | $\left( \right)$ &nbsp; \left( &nbsp; \right) | $\{ \}$ &nbsp; \\{ &nbsp; \\} | $\lfloor$ &nbsp; \lfloor | $\rfloor$ &nbsp; \rfloor |
 | $\vert$ &nbsp; \vert | $\| \|$ &nbsp; \| \| | $\langle$ &nbsp; \langle | $\rangle$ &nbsp; \rangle |
